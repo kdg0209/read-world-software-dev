@@ -13,4 +13,5 @@ public class BankTransaction {
 
     private LocalDate date;
     private double amount;
+
 }
